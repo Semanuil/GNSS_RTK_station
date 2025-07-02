@@ -2,11 +2,16 @@
 
 Features:
 
-✅ UART communication with LC29HBS GNSS module (115200 baud
+✅ UART communication with LC29HBS GNSS module (115200 baud rate)
+
 ✅ RTCM reading and parsing from GNSS data
+
 ✅ ESP-NOW communication for sending RTCM data to the rover
+
 ✅ Wi-Fi Access Point (“RTK_Base_Station”, password: “rtk12345”)
+
 ✅ Web server for status monitoring at http://192.168.4.1
+
 ✅ FreeRTOS tasks for non-blocking communication
 
 Key Files:
